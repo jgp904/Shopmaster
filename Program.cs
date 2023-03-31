@@ -8,6 +8,7 @@
             {
                 Console.WriteLine("헤더");  //A#2
                 Console.WriteLine("회원가입");  //B#4
+                Console.WriteLine("관리자");   //B#5
             }
             Console.WriteLine("article"); 
             {
