@@ -6,7 +6,8 @@
         {
             Console.WriteLine("header");
             {
-                Console.WriteLine("it is header");  //A#2
+                Console.WriteLine("헤더");  //A#2
+                Console.WriteLine("회원가입");  //B#4
             }
             Console.WriteLine("article"); 
             {
