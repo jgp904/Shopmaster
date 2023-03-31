@@ -13,6 +13,8 @@
             Console.WriteLine("article"); 
             {
                 Console.WriteLine("본문");    //A#3
+                Console.WriteLine("기사1");   //A#5
+                Console.WriteLine("기사2");   //A#5
             }
             Console.WriteLine("footer");
             {
